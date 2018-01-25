@@ -18,7 +18,7 @@ namespace DemoGithub
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            //vua them dong nay
         }
 
         private void button1_Click(object sender, EventArgs e)
